@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SpriteStudioCellMap version="2.00.00">
+    <name>sd_unity</name>
+    <exportPath/>
+    <imagePath>sd_unity.png</imagePath>
+    <pixelSize>512 512</pixelSize>
+    <overrideTexSettings>0</overrideTexSettings>
+    <wrapMode>clamp</wrapMode>
+    <filterMode>linear</filterMode>
+    <imagePathAtImport/>
+    <packInfoFilePath/>
+    <texPackSettings>
+        <maxSize>4096 4096</maxSize>
+        <forcePo2>1</forcePo2>
+        <forceSquare>0</forceSquare>
+        <margin>0</margin>
+        <padding>1</padding>
+    </texPackSettings>
+    <cells>
+        <cell>
+            <name>hair_f</name>
+            <pos>256 4</pos>
+            <size>157 108</size>
+            <pivot>-0.124000 0.313953</pivot>
+            <rotated>0</rotated>
+            <orgImageName></orgImageName>
+            <posStable>0</posStable>
+            <ismesh>0</ismesh>
+            <divtype>unknown</divtype>
+            <innerPoint/>
+            <outerPoint/>
+            <meshPointList/>
+            <meshTriList/>
+        </cell>
+        <cell>
+            <name>head</name>
+            <pos>112 4</pos>
+            <size>141 129</size>
+            <pivot>-0.125000 -0.422330</pivot>
+            <rotated>0</rotated>
+            <orgImageName></orgImageName>
+            <posStable>0</posStable>
+            <ismesh>0</ismesh>
+            <divtype>unknown</divtype>
+            <innerPoint/>
+            <outerPoint/>
+            <meshPointList/>
+            <meshTriList/>
+        </cell>
+        <cell>
+            <name>arm_l</name>
+            <pos>4 250</pos>
+            <size>63 84</size>
+            <pivot>-0.405660 0.373239</pivot>
+            <rotated>0</rotated>
+            <orgImageName></orgImageName>
+            <posStable>0</posStable>
+            <ismesh>0</ismesh>
+            <divtype>unknown</divtype>
+            <innerPoint/>
+            <outerPoint/>
+            <meshPointList/>
+            <meshTriList/>
+        </cell>
+        <cell>
+            <name>body</name>
+            <pos>112 136</pos>
+            <size>87 128</size>
+            <pivot>-0.034247 -0.166667</pivot>
+            <rotated>0</rotated>
+            <orgImageName></orgImageName>
+            <posStable>0</posStable>
+            <ismesh>0</ismesh>
+            <divtype>unknown</divtype>
+            <innerPoint/>
+            <outerPoint/>
+            <meshPointList/>
+            <meshTriList/>
+        </cell>
+        <cell>
+            <name>leg_l</name>
+            <pos>290 222</pos>
+            <size>54 102</size>
+            <pivot>-0.055556 0.337209</pivot>
+            <rotated>0</rotated>
+            <orgImageName></orgImageName>
+            <posStable>0</posStable>
+            <ismesh>0</ismesh>
+            <divtype>unknown</divtype>
+            <innerPoint/>
+            <outerPoint/>
+            <meshPointList/>
+            <meshTriList/>
+        </cell>
+        <cell>
+            <name>hip</name>
+            <pos>70 266</pos>
+            <size>86 60</size>
+            <pivot>-0.061644 -0.127451</pivot>
+            <rotated>0</rotated>
+            <orgImageName></orgImageName>
+            <posStable>0</posStable>
+            <ismesh>0</ismesh>
+            <divtype>unknown</divtype>
+            <innerPoint/>
+            <outerPoint/>
+            <meshPointList/>
+            <meshTriList/>
+        </cell>
+        <cell>
+            <name>leg_r</name>
+            <pos>370 114</pos>
+            <size>42 98</size>
+            <pivot>0.000000 0.379518</pivot>
+            <rotated>0</rotated>
+            <orgImageName></orgImageName>
+            <posStable>0</posStable>
+            <ismesh>0</ismesh>
+            <divtype>unknown</divtype>
+            <innerPoint/>
+            <outerPoint/>
+            <meshPointList/>
+            <meshTriList/>
+        </cell>
+        <cell>
+            <name>back</name>
+            <pos>370 218</pos>
+            <size>81 91</size>
+            <pivot>-0.021739 0.342105</pivot>
+            <rotated>0</rotated>
+            <orgImageName></orgImageName>
+            <posStable>0</posStable>
+            <ismesh>0</ismesh>
+            <divtype>unknown</divtype>
+            <innerPoint/>
+            <outerPoint/>
+            <meshPointList/>
+            <meshTriList/>
+        </cell>
+        <cell>
+            <name>arm_r</name>
+            <pos>202 222</pos>
+            <size>86 82</size>
+            <pivot>0.006849 0.398551</pivot>
+            <rotated>0</rotated>
+            <orgImageName></orgImageName>
+            <posStable>0</posStable>
+            <ismesh>0</ismesh>
+            <divtype>unknown</divtype>
+            <innerPoint/>
+            <outerPoint/>
+            <meshPointList/>
+            <meshTriList/>
+        </cell>
+        <cell>
+            <name>hair_br</name>
+            <pos>416 4</pos>
+            <size>78 211</size>
+            <pivot>0.225806 0.423077</pivot>
+            <rotated>0</rotated>
+            <orgImageName></orgImageName>
+            <posStable>0</posStable>
+            <ismesh>0</ismesh>
+            <divtype>unknown</divtype>
+            <innerPoint/>
+            <outerPoint/>
+            <meshPointList/>
+            <meshTriList/>
+        </cell>
+        <cell>
+            <name>hair_bl</name>
+            <pos>4 4</pos>
+            <size>105 243</size>
+            <pivot>-0.273810 0.387179</pivot>
+            <rotated>0</rotated>
+            <orgImageName></orgImageName>
+            <posStable>0</posStable>
+            <ismesh>0</ismesh>
+            <divtype>unknown</divtype>
+            <innerPoint/>
+            <outerPoint/>
+            <meshPointList/>
+            <meshTriList/>
+        </cell>
+        <cell>
+            <name>head_b</name>
+            <pos>256 114</pos>
+            <size>112 106</size>
+            <pivot>0.000000 0.000000</pivot>
+            <rotated>0</rotated>
+            <orgImageName></orgImageName>
+            <posStable>0</posStable>
+            <ismesh>0</ismesh>
+            <divtype>unknown</divtype>
+            <innerPoint/>
+            <outerPoint/>
+            <meshPointList/>
+            <meshTriList/>
+        </cell>
+        <cell>
+            <name>shadow</name>
+            <pos>158 306</pos>
+            <size>117 28</size>
+            <pivot>0.000000 0.000000</pivot>
+            <rotated>0</rotated>
+            <orgImageName></orgImageName>
+            <posStable>0</posStable>
+            <ismesh>0</ismesh>
+            <divtype>unknown</divtype>
+            <innerPoint/>
+            <outerPoint/>
+            <meshPointList/>
+            <meshTriList/>
+        </cell>
+    </cells>
+</SpriteStudioCellMap>
